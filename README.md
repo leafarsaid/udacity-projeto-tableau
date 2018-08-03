@@ -16,3 +16,5 @@ Links para as versões do projeto no Tableau:
 https://public.tableau.com/profile/rafael.dias5388#!/vizhome/Udacity-EstatsticasdeBaseball-PrimeiraVisualizao/Histria1
 
 https://public.tableau.com/profile/rafael.dias5388#!/vizhome/Udacity-EstatsticasdeBaseball-SegundaVisualizao/Histria1
+
+https://public.tableau.com/profile/rafael.dias5388#!/vizhome/Udacity-EstatsticasdeBaseball-TerceiraVisualizao/Histria1
